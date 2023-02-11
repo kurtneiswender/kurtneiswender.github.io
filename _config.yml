@@ -23,7 +23,7 @@ twitter_username: https://twitter.com/kurtneiswender
 github_username: https://github.com/kurtneiswender
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/2023 Logo.jpg"
+#logo: "/assets/images/2023 Logo.jpg"
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -32,6 +32,7 @@ permalink: /:categories/:title/
 paginate: 4 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Detroit
+repository: "kurtneiswender/kurtneiswender"
 
 include:
   - _pages
@@ -61,8 +62,8 @@ plugins:
 
 author:
   name   : "Kurt Neiswender, AIA"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  avatar : "/assets/images/2023 Logo.jpg"
+  bio    : "Urban Colab Architecture intends for all projects to be considerate of the ecological impact of their designed solution. Urban Colab Architecture provides solutions that are architectural in nature Urban Colab Architecture intends for all projects to be considerate of the ecological impact of their designed solution."
   links:
     - label: "Podcast"
       icon: "fas fa-fw fa-podcast"
@@ -76,6 +77,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/coffeesketchpodcast"
 
 footer:
   links:
@@ -88,6 +92,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/urbancolabarchitecture"
+    - label: "Twitch"
+      icon: "fab fa-fw fa-twitch"
+      url: "https://www.twitch.tv/coffeesketchpodcast"
 
 defaults:
   # _posts
@@ -109,9 +116,23 @@ defaults:
       layout: single
       author_profile: true
 
+  # _portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
+
+collections: 
+  portfolio: 
+    output: true
+    permalink: /:collections/:path/
