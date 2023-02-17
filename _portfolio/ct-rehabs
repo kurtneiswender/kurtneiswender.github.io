@@ -1,0 +1,16 @@
+--- 
+title: "Carriage Town Historic Preservation"
+excerpt: "Historic Rehabilitation of two homes in Carriage Town Neighborhood of Flint, Michigan"
+header:
+  image: /assets/images/slider-creative-solutions-2.jpg
+  teaser: /assets/images/sanford-103.PNG
+sidebar:
+  - title: "Project Name"
+    image: http://placehold.it/350x250
+    image_alt: "logo"
+    text: "Carriage Town Historic Preservation"
+  - title: "Information"
+    text: "A blurb about the project I designed"
+
+---
+
