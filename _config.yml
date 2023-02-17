@@ -118,7 +118,7 @@ defaults:
 
   # _portfolio
   - scope:
-      path: ""
+      path: "_portfolio"
       type: portfolio
     values:
       layout: single
@@ -135,4 +135,4 @@ tag_archive:
 collections: 
   portfolio: 
     output: true
-    permalink: /:collections/:path/
+    permalink: /:collection/:path/
