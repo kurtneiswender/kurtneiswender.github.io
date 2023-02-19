@@ -5,7 +5,7 @@ permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#728fd8"
-  overlay_filter: "0.1"
+  overlay_filter: "0.5"
   overlay_image: /assets/images/slider-creative-solutions-2.jpg
   actions:
     - label: "About Us"

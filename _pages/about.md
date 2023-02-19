@@ -1,6 +1,12 @@
 ---
 permalink: /about/
 title: "About"
+#classes: wide
+toc: true
+toc_sticky: false
+toc_icon: bars
+toc_label: "Jump to Section"
+
 ---
 
 # The End of Disposability 
