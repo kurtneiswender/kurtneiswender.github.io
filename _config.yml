@@ -29,8 +29,8 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 # Outputting
 permalink: /:categories/:title/
-paginate: 4 # amount of posts to show
-paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /blog/page:num/
 timezone: America/Detroit
 repository: "kurtneiswender/kurtneiswender"
 
