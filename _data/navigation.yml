@@ -2,10 +2,9 @@ main:
   #- title: "Posts"
    # url: /posts/
   #- title: "Categories"
-    #url: /categories/
-    
-  #- title: "Tags"
-    #url: /blog/tags/
+ #   url: /categories/
+ # - title: "Tags"
+ #   url: /tags/
 
   - title: "Portfolio"
     url: /portfolio/
@@ -15,3 +14,9 @@ main:
 
   - title: "Blog"
     url: /blog/
+  
+  - title: "Garden"
+    url: https://garden.urbancolab.design
+
+    
+     
