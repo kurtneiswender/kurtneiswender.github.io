@@ -10,6 +10,7 @@ categories:
 tags: 
   - flint
   - volunteering
+  - related posts
 ---
 
 # Design and Construction for Flint Kids

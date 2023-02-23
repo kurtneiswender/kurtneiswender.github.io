@@ -1,8 +1,7 @@
 ---
 layout: posts
 title: "Do It Yourself, Sometimes"
-show_categories: true
-tags_label: true
+
 
 categories: 
   - recent
@@ -10,6 +9,7 @@ categories:
 tags: 
   - diy
   - techstack
+  - related posts
 ---
 
 I have decided to rebuild the website for my business, Urban Colab Architecture. I am and have long been a fan of the "Do-It-Yourself" attitude, and in this day and age there is a ton of technology to take advantage of to keep things "in-house", that is if you are willing to take the time to learn a few new things and fail... often. 

@@ -5,6 +5,7 @@ categories:
   - recent
 tags: 
   - ideas
+  - related posts
 ---
 
 I decided to take it upon myself to rewrite my website from scratch to accomplish a few things. 
