@@ -23,7 +23,7 @@ twitter_username: https://twitter.com/kurtneiswender
 github_username: https://github.com/kurtneiswender
 minimal_mistakes_skin: dark
 search: true
-#logo: "/assets/images/2023 Logo.jpg"
+logo: "/assets/images/2023-logo-white-letters.png"
 # Build settings
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
@@ -62,7 +62,7 @@ plugins:
 
 author:
   name   : "Kurt Neiswender, AIA"
-  avatar : "/assets/images/2023 Logo.jpg"
+  avatar : "/assets/images/2023-logo-white-letters.png"
   bio    : "Urban Colab Architecture intends for all projects to be considerate of the ecological impact of their designed solution. Urban Colab Architecture provides solutions that are architectural in nature Urban Colab Architecture intends for all projects to be considerate of the ecological impact of their designed solution."
   links:
     - label: "Podcast"
