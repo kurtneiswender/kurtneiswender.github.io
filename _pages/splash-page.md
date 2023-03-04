@@ -19,7 +19,7 @@ feature_row:
   - image_path: assets/images/irongate-01.jpg
     alt: "103 Sanford Place"
     title: "Multifamily Housing"
-    excerpt: "Renovating an existing building is more sustainable than building new"
+    excerpt: "Urban Colab Architecture is focused on housing affordability for all"
     url: "/portfolio/"
     btn_label: "Portfolio"
     btn_class: "btn--primary"
