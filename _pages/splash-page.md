@@ -4,9 +4,9 @@ layout: splash
 permalink: /
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#728fd8"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/slider-creative-solutions-2.jpg
+  overlay_color: #"#728fd8"
+  overlay_filter: #"0.5"
+  overlay_image: /assets/images/splash-satori.jpg
   actions:
     - label: "About Us"
       url: "/about/"
@@ -25,11 +25,11 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: assets/images/ct-rehab-15.png
     title: "Historic Preservation"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "We are passionate about the preservation of historic places and spaces"
   - image_path: assets/images/inc-systems.jpg
     alt: "placeholder image 2"
     title: "Commercial"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Our commercial design services include interior renovations to ground up construction"
 
 feature_row2:
   - image_path: assets/images/kurt-showing-drawings.jpg
@@ -37,7 +37,7 @@ feature_row2:
     title: "Read our Blog"
     excerpt: 'We blog about projects updates, the profession of architecture, tips and tricks, and current events'
     url: "/blog/"
-    btn_label: "Read More"
+    btn_label: "Short Stories"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: assets/images/digital-garden-02.jpg
@@ -45,7 +45,7 @@ feature_row3:
     title: "Visit my Digital Garden"
     excerpt: 'If you are not aware of the concept of a Digital Garden, I will expand on that as this space grows. In a nutshell, I look forward to sharing my experiences, thoughts, and interests in and around the profession of architecture.'
     url: "https://garden.urbancolab.design"
-    btn_label: "Garden"
+    btn_label: "Explore More"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: assets/images/contact-kurt.jpg
@@ -53,7 +53,7 @@ feature_row4:
     title: "Contact Us"
     excerpt: 'Click below to get in touch with us today!'
     url: "#test-link"
-    btn_label: "Click Me"
+    btn_label: "Get in Touch"
     btn_class: "btn--primary"
 ---
 
